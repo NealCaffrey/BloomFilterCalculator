@@ -1,0 +1,21 @@
+{
+    "name": "nealcaffrey/bloomfiltercalculator",
+    "description": "This is bloom filter calculator",
+    "type": "library",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nealcaffrey",
+            "email": "liuchuanqi7@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "NealCaffrey\\": "src"
+        }
+    }
+}
